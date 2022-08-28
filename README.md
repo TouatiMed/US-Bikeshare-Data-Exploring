@@ -54,7 +54,7 @@ We have the three city dataset files:
 - washington.csv
 
 ## The Interactive Experience
-For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics. Below screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
+For an interactive experience,the script takes in raw inputs in the terminal to present the relevant statistics. Below the screenshots show some results after requesting information about New York City:
 
 ![screenshot](https://i.imgur.com/Oit97pN.png)
 
